@@ -1,5 +1,7 @@
 # Resources for Placement Prepration
-
+# Hi, I'm Raj! 👋
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayerajkumar/)
 
 ## Programming Language Used : C
 - Programming in C = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR)
