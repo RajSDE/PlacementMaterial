@@ -1,4 +1,4 @@
-# Resources-for-preparation-Of-Placements (Lecture video links)
+# Resources for Placement Prepration
 
 
 # Programming Language Used : C
