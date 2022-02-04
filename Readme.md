@@ -1,7 +1,7 @@
 # Resources for Placement Prepration
 
 
-# Programming Language Used : C
+## Programming Language Used : C
 - Programming in C = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR)
 
 - DS-ALGO = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
@@ -10,7 +10,7 @@
 
 <hr>
 
-# Programming Language Used : C++
+## Programming Language Used : C++
 
 - Programming in C++ = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
 
@@ -50,7 +50,7 @@
 
 <hr>
 
-# Programming Language Used : JAVA
+## Programming Language Used : JAVA
 
 - Programming in JAVA = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
 
@@ -63,7 +63,7 @@
 <hr>   
   
   
-# Programming Language Used : Python
+## Programming Language Used : Python
 
 - Programming in Python = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
 
@@ -71,7 +71,7 @@
 
 <hr>
 
-# Placement Series
+## Placement Series
  - C++ = [CodeHelp - by Babbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 
 - JAVA =  [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
@@ -82,7 +82,7 @@
 
 <hr>
 
-# Computer Science Fundamentals
+## Computer Science Fundamentals
 
 - DataBase and Management System (DBMS) =  [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 
@@ -101,7 +101,7 @@
           
 <hr>
   
-  # Designing
+  ## Designing
          
 - SYSTEM DESIGN
   - [Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
@@ -112,7 +112,7 @@
 <hr>
 
 
-# Projects
+## Projects
 
 - WEB DEVELOPMENT = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 
@@ -120,7 +120,7 @@
 
 - MACHINE LEARNING = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG)
 
-# ADD- ONS
+## ADD- ONS
 
 - https://github.com/seanprashad/leetcode-patterns
 
