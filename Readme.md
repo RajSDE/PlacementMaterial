@@ -14,31 +14,36 @@
 
 ## Programming Language Used : C++
 
-- Programming in C++ = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
+- Programming in C++ = [Apna College](https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 
-- ARRAYS = [Edutainment 1.0](https://www.youtube.com/playlist?list=PLDA2q3s0-n17lGt6HyexWP0zR1yISc1km)
+- Arrays (Java)
+  - [PepCodind](https://youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r)
+  - [PepCoding](https://youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH)
 
-- STRING = [CodeNCode](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik6ThrYKCzgEpmaS_XWDGHjx)
+- STRING (Java) = [PepCoding](https://youtube.com/playlist?list=PL-Jc9J83PIiFIKbdCKuYwsV8KaX-jHe0V)
 
 - BINARY SEARCH = [TakeuForward](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2)
 
 - DP
   - [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
   - [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
+  - [PepCoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy)
 
-- STACK = [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd)
+- STACK & QUEUE= [PepCoding](https://youtube.com/playlist?list=PL-Jc9J83PIiEyUGT3S8zPdTMYojwZPLUM)
 
 - HEAP= [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9)
 
 - SLIDING WINDOW= [Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj)
 
-- RECURSION , BACKTRACKING = [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9)
+- RECURSION , BACKTRACKING = [PepCoding](https://youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs)
 
 - TREES = [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk)
 
 - GRAPHS = [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
 
-- LINKEDLIST = [Lead Coding by FRAZ](https://www.youtube.com/playlist?list=PLKZaSt2df1gz775Mz-2gLpY9sld5wH8We)
+- LINKEDLIST
+  - [Lead Coding by FRAZ](https://www.youtube.com/playlist?list=PLKZaSt2df1gz775Mz-2gLpY9sld5wH8We)
+  - [PepCoding](https://youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_)
 
 - TRIE = [TakeuForward](https://www.youtube.com/playlist?list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp)
 
@@ -54,16 +59,24 @@
 
 ## Programming Language Used : JAVA
 
-- Programming in JAVA = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
+- Programming in JAVA [Telusko](https://youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK)
+- Socket Programming un Java [Telusko](https://youtube.com/playlist?list=PLsyeobzWxl7qRzutQxZ9Xw7QJyr8Zuyif)
+- Enum in Java [Telusko](https://youtube.com/playlist?list=PLsyeobzWxl7pqDkHDPUoy75HLb_JLnZIy)
+- MultiThreading in Java [Telusko](https://youtube.com/playlist?list=PLsyeobzWxl7rmuFYRpkqLanwoG4pQQ7oW)
+- InnerClass in Java [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7pL4Qy1ftJR0CB0NtjAotyD)
+- Collections and Generics in Java [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7oJj5BXYF088REBm-K4c_SR)
+- Exception Handling in Java [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7rS9B2K1l--VDpCn41gijnV)
+- Annotation in Java [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7rGC3gHSbs26-bzmPqUW-ez)
+
 
 - DS ALGO :
   - [Kunal Kushwaha](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-  - [Pepcoding](https://www.youtube.com/c/Pepcoding)
+  - [Pepcoding DSA Level 1](https://youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
+  - [Pepcoding DSA Level 2](https://youtube.com/playlist?list=PL-Jc9J83PIiE-181crLG1xSIWhTGKFiMY)
   - [Durga Sir](https://youtube.com/playlist?list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
   - [Anuj Bhaiya](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
   
 <hr>   
-  
   
 ## Programming Language Used : Python
 
@@ -116,13 +129,14 @@
 
 ## Projects
 
-- WEB DEVELOPMENT = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+- WEB DEVELOPMENT = [Online Tutorials](https://youtube.com/playlist?list=PL5e68lK9hEzc8P9BJCSX1k9C8uKAV5Oa5)
 
-- DATA SCIENCE = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agK8pojo23OHiNz3Jm6VQCH)
+- DATA SCIENCE = [Edureka](https://www.youtube.com/watch?v=-ETQ97mXXF0&ab_channel=edureka%21)
 
-- MACHINE LEARNING = [Code with Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG)
+- MACHINE LEARNING = [5 Minutes Engineering](https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P)
 
 ## ADD- ONS
+- https://github.com/AyeRaj
 
 - https://github.com/seanprashad/leetcode-patterns
 
@@ -130,5 +144,3 @@
 
 - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
 
-
-You can add more in this list . Lets help the community !
