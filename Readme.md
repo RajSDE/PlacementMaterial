@@ -1,3 +1,5 @@
+</p><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Visitors&color=0e75b6&style=flat" alt="RajSDE" />
+
 # Resources for Placement Prepration
 # Hi, I'm Raj! 👋
 ## 🔗 Links
